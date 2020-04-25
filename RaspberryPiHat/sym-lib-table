@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name judebake_rpihat_project-rescue)(type Legacy)(uri ${KIPRJMOD}/judebake_rpihat_project-rescue.lib)(options "")(descr ""))
+)
