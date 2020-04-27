@@ -1,4 +1,4 @@
-16961655554746484
+16975977587393170
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -46087,6 +46087,174 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+ENYA_Bitmap
+CC-BY-SA_4MM
+
+
+0
+0
+0
+ENYA_Bitmap
+CC-BY-SA_6MM
+
+
+0
+0
+0
+ENYA_Bitmap
+CC-BY-SA_8MM
+
+
+0
+0
+0
+ENYA_Bitmap
+CC-BY-SA_10MM
+
+
+0
+0
+0
+ENYA_Bitmap
+CC-BY-SA_12MM
+
+
+0
+0
+0
+ENYA_Bitmap
+Electronya_Logo_4MM
+
+
+0
+0
+0
+ENYA_Bitmap
+Electronya_Logo_6MM
+
+
+0
+0
+0
+ENYA_Bitmap
+Electronya_Logo_8MM
+
+
+0
+0
+0
+ENYA_Bitmap
+Electronya_Logo_10MM
+
+
+0
+0
+0
+ENYA_Bitmap
+Electronya_Logo_12MM
+
+
+0
+0
+0
+ENYA_Connector_Barrel_Audio
+SJ-435107
+TRS 3.5mm, horizontal, through-hole, with switch, circular holes, https://www.cui.com/product/resource/sj1-353xng.pdf
+TRS audio jack stereo horizontal circular
+0
+6
+6
+ENYA_Diode_Infrared
+QEB363GR
+EMITTER IR 940NM 50MA SMD
+ir emitter
+0
+2
+2
+ENYA_Header_3mm
+MICROFIT_43045_MALE_2x6
+Molex Micro-Fit 3.0 Connector System, 43045-1212 (compatible alternatives: 43045-1213, 43045-1224), 6 Pins per row (http://www.molex.com/pdm_docs/sd/430450212_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 side entry
+0
+12
+12
+ENYA_Header_3mm
+MICROFIT_43045_MALE_2x12
+Molex Micro-Fit 3.0 Connector System, 43045-2412 (compatible alternatives: 43045-2413, 43045-2424), 12 Pins per row (http://www.molex.com/pdm_docs/sd/430450212_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 side entry
+0
+24
+24
+ENYA_Header_3mm
+MICROFIT_43650_MALE_1x3
+Molex Micro-Fit 3.0 Connector System, 43650-0315 (compatible alternatives: 43650-0316, 43650-0317), 3 Pins per row (http://www.molex.com/pdm_docs/sd/436500215_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 vertical
+0
+3
+3
+ENYA_Header_100mils
+ESQ-120-34-G-D
+Samtec ESQ 2x20 Female Header 0.100 Pitch 0.635 Insulation 0.280 Post
+
+0
+40
+40
+ENYA_Mechanical
+Fiducial_1.5mm_Mask3mm
+Circular Fiducial, 1.5mm bare copper, 3mm soldermask opening
+fiducial
+0
+1
+0
+ENYA_Mechanical
+TH-UPLTD-D5.2
+THRU HOLE UNPLATED 5.2 DIA
+through hole
+0
+0
+0
+ENYA_Package_DFN_QFN
+VFQFPN-32-1EP_5x5mm_P0.5mm_EP3.1x4.3mm_ThermalVias
+QFN, 32 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/8008S.pdf (Page 20)), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+59
+33
+ENYA_Potentiometer
+Potentiometer_Bourns_3214W_Vertical
+Potentiometer, vertical, Bourns 3214W, https://www.bourns.com/docs/Product-Datasheets/3214.pdf
+Potentiometer vertical Bourns 3214W
+0
+3
+3
+ENYA_Receiver_Infrared
+TSOP753xx_RA
+TSOP753xx Right Angle
+ir, ir receiver
+0
+4
+4
+ENYA_Relay_Signal
+AGQ_SMD
+Latching Single Coil DPDT Relay
+
+0
+8
+8
+ENYA_Relay_Signal
+DS1E-ML2
+Latching Dual Coil SPDT Relay
+
+0
+6
+6
+ENYA_Relay_Signal
+G6AK-274P
+Latching Dual Coil SPDT Relay
+
+0
+10
+10
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -50119,111 +50287,6 @@ L_Toroid Vertical series Radial pin pitch 31.80mm  length 67.6mm width 36.1mm Vi
 0
 2
 2
-JB_Bitmaps
-CC-BY-SA_4MM
-
-
-0
-0
-0
-JB_Bitmaps
-CC-BY-SA_6MM
-
-
-0
-0
-0
-JB_Bitmaps
-CC-BY-SA_8MM
-
-
-0
-0
-0
-JB_Bitmaps
-CC-BY-SA_10MM
-
-
-0
-0
-0
-JB_Bitmaps
-CC-BY-SA_12MM
-
-
-0
-0
-0
-JB_Bitmaps
-JB_Logo_4MM
-
-
-0
-0
-0
-JB_Bitmaps
-JB_Logo_6MM
-
-
-0
-0
-0
-JB_Bitmaps
-JB_Logo_8MM
-
-
-0
-0
-0
-JB_Bitmaps
-JB_Logo_10MM
-
-
-0
-0
-0
-JB_Connector_Barrel_Audio
-SJ-435107
-TRS 3.5mm, horizontal, through-hole, with switch, circular holes, https://www.cui.com/product/resource/sj1-353xng.pdf
-TRS audio jack stereo horizontal circular
-0
-6
-6
-JB_Header_100mils
-ESQ-120-34-G-D
-Samtec ESQ 2x20 Female Header 0.100 Pitch 0.635 Insulation 0.280 Post
-
-0
-40
-40
-JB_IrReceiver
-TSOP753xx_RA
-TSOP753xx Right Angle
-ir, ir receiver
-0
-4
-4
-JB_Mechanical
-Fiducial_1.5mm_Mask3mm
-Circular Fiducial, 1.5mm bare copper, 3mm soldermask opening
-fiducial
-0
-1
-0
-JB_Mechanical
-TH-UPLTD-D5.2
-THRU HOLE UNPLATED 5.2 DIA
-through hole
-0
-0
-0
-JB_Signal_Relay
-AGQ_SMD
-
-
-0
-8
-8
 Jumper
 SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm
 SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 2 copper strips
