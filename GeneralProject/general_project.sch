@@ -13,4 +13,15 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
+$Comp
+L ENYA_Bitmap:Electronya_Logo #G?
+U 1 1 5EA6E7AF
+P 16100 8900
+F 0 "#G?" H 16100 8702 60  0001 C CNN
+F 1 "Electronya_Logo" H 16100 9098 60  0001 C CNN
+F 2 "" H 16100 8900 50  0001 C CNN
+F 3 "" H 16100 8900 50  0001 C CNN
+	1    16100 8900
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

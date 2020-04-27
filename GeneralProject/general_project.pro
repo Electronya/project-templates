@@ -1,4 +1,4 @@
-update=2020-03-15 3:46:48 PM
+update=2020-04-27 10:07:20 AM
 version=1
 last_client=kicad
 [general]
@@ -14,7 +14,7 @@ LibDir=
 [eeschema/libraries]
 [schematic_editor]
 version=1
-PageLayoutDescrFile=C:/Users/julie/Documents/JudeBake/HardwareDev/KiCadData/ProjectTemplates/page_layouts/judebake_CC.kicad_wks
+PageLayoutDescrFile=C:/Users/julie/Documents/Electronya/Hardware Dev/KiCad Data/Templates/page-layouts/electronya_std.kicad_wks
 PlotDirectoryName=
 SubpartIdSeparator=0
 SubpartFirstId=65
@@ -24,7 +24,7 @@ LabSize=50
 ERC_TestSimilarLabels=1
 [pcbnew]
 version=1
-PageLayoutDescrFile=C:/Users/julie/Documents/JudeBake/HardwareDev/KiCadData/page_layouts/judebake_CC.kicad_wks
+PageLayoutDescrFile=C:/Users/julie/Documents/Electronya/Hardware Dev/KiCad Data/Templates/page-layouts/electronya_std.kicad_wks
 LastNetListRead=
 CopperLayerCount=2
 BoardThickness=1.6
@@ -79,7 +79,7 @@ OthersTextUpright=1
 SolderMaskClearance=0.051
 SolderMaskMinWidth=0.25
 SolderPasteClearance=0
-SolderPasteRatio=-0
+SolderPasteRatio=0
 [pcbnew/Layer.F.Cu]
 Name=F.Cu
 Type=0
