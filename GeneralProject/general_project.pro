@@ -1,4 +1,4 @@
-update=2020-04-27 10:07:20 AM
+update=2020-04-27 6:01:07 PM
 version=1
 last_client=kicad
 [general]
@@ -14,7 +14,7 @@ LibDir=
 [eeschema/libraries]
 [schematic_editor]
 version=1
-PageLayoutDescrFile=C:/Users/julie/Documents/Electronya/Hardware Dev/KiCad Data/Templates/page-layouts/electronya_std.kicad_wks
+PageLayoutDescrFile=../../../../KiCad Data/Templates/page-layouts/electronya_std.kicad_wks
 PlotDirectoryName=
 SubpartIdSeparator=0
 SubpartFirstId=65
@@ -24,7 +24,7 @@ LabSize=50
 ERC_TestSimilarLabels=1
 [pcbnew]
 version=1
-PageLayoutDescrFile=C:/Users/julie/Documents/Electronya/Hardware Dev/KiCad Data/Templates/page-layouts/electronya_std.kicad_wks
+PageLayoutDescrFile=../../../../../Hardware Dev/KiCad Data/Templates/page-layouts/electronya_std.kicad_wks
 LastNetListRead=
 CopperLayerCount=2
 BoardThickness=1.6
