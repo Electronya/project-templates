@@ -44,7 +44,7 @@ GPIO26
 Text Notes 3200 1500 0    50   ~ 0
 GPIO14/TXD0
 Text Notes 3200 1600 0    50   ~ 0
-GPIO15/TXD0
+GPIO15/RXD0
 Text Notes 3200 1700 0    50   ~ 0
 GPIO18/GEN1
 Text Notes 3200 1900 0    50   ~ 0
