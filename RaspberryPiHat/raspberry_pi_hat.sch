@@ -435,20 +435,6 @@ F 3 "" H 16100 8900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L ENYA_Header_100mils:CONN_2x20_FEM_100PITCH_635INS_280POST J1
-U 1 1 5EA72C40
-P 2700 2100
-F 0 "J1" H 2700 3125 50  0000 C CNN
-F 1 "CONN_2x20_FEM_100PITCH_635INS_280POST" H 2700 975 50  0001 C CNN
-F 2 "ENYA_Header_100mils:ESQ-120-34-G-D" H 2700 825 50  0001 C CNN
-F 3 "L:\\JudeBake\\Datasheet\\Header\\esq-1xx-xx-x-x-xxx-xx-x-xx-mkt.pdf" H 2700 750 50  0001 C CNN
-F 4 "Samtec" H 2700 2100 50  0001 C CNN "Manufacturer"
-F 5 "ESQ-120-34-G-D" H 2700 2100 50  0001 C CNN "Manufacturer Part Number"
-F 6 "SAM9319-ND" H 2700 2100 50  0001 C CNN "Digi-Key Part Number"
-	1    2700 2100
-	1    0    0    -1  
-$EndComp
-$Comp
 L ENYA_Cap_Smd_50V:100nF_CER_0603_50V C1
 U 1 1 5EA78263
 P 2000 4500
@@ -575,6 +561,20 @@ F 1 "MH-NPLTD-M2.5" H 1100 10200 50  0001 C CNN
 F 2 "MountingHole:MountingHole_2.7mm_M2.5_DIN965" H 1100 10200 50  0001 C CNN
 F 3 "" H 1100 10200 50  0001 C CNN
 	1    1100 10200
+	1    0    0    -1  
+$EndComp
+$Comp
+L ENYA_Header_100mils:CONN_2x20_FEM_100PITCH_335INS_126POST J1
+U 1 1 602DC295
+P 2700 2100
+F 0 "J1" H 2700 3125 50  0000 C CNN
+F 1 "CONN_2x20_FEM_100PITCH_335INS_126POST" H 2700 975 50  0001 C CNN
+F 2 "ENYA_Header_100mils:PPTC202LFBN-RC" H 2700 825 50  0001 C CNN
+F 3 "https://media.digikey.com/pdf/Data%20Sheets/Sullins%20PDFs/Female_Headers.100_DS.pdf" H 2700 750 50  0001 C CNN
+F 4 "Sullins Connector Solutions" H 2700 2100 50  0001 C CNN "Manufacturer"
+F 5 "PPTC202LFBN-RC" H 2700 2100 50  0001 C CNN "Manufacturer Part Number"
+F 6 "S6104-ND" H 2700 2100 50  0001 C CNN "Digi-Key Part Number"
+	1    2700 2100
 	1    0    0    -1  
 $EndComp
 Wire Bus Line
