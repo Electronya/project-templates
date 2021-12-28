@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name judebake_rpihat_project-rescue)(type Legacy)(uri ${KIPRJMOD}/judebake_rpihat_project-rescue.lib)(options "")(descr ""))
-  (lib (name raspberry_pi_hat-rescue)(type Legacy)(uri ${KIPRJMOD}/raspberry_pi_hat-rescue.lib)(options "")(descr ""))
-)
